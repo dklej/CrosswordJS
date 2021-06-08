@@ -1,0 +1,55 @@
+body {
+    background-color: #006d83;
+}
+
+table {
+    width: 600px;
+    height: 450px;
+}
+
+
+td {
+    font-family: serif;
+    text-align: center;
+    width: 10%;
+    font-size: 25px;
+}
+
+.col-md-8 {
+    margin-top: 100px;
+}
+
+.col-xs-12 {
+    margin-top: 100px;
+}
+
+.mb-3 {
+    padding-top: 110px;
+}
+
+.literaK {
+    border: 2px solid black;
+    background-color: #ffeb00;
+}
+
+.hasloOznaczone {
+    border: 4px solid black;
+    background-color: rgb(255, 84, 5);
+    font-weight: bold;
+}
+
+p {
+    margin: -5px;
+    padding: 0;
+}
+
+.opisy {
+    background-color: rgb(78, 139, 78);
+    font-size: large;
+    font-family: 'Century Gothic';
+    line-height: 35px;
+    font-weight: bold;
+    margin-right: 540px;
+    padding: 10px;
+    padding-left: 20px;
+}

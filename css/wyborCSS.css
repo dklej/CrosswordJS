@@ -1,0 +1,38 @@
+body {
+    background-color: #238181;
+}
+
+.col-md-12 {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+
+
+.headers {
+    padding: 20px;
+    min-width: 200px;
+    margin-left: 50px;
+    background-color: #8B8B8F;
+    border-radius: 20px;
+    border: solid 2px white;
+    font-size: 20px;
+}
+
+.header {
+    background-color: #4C4D57;
+}
+
+
+#jolka {
+    display: none;
+}
+
+#klasyczna {
+    display: none;
+}
+
+#panoramiczna {
+    display: none;
+}
