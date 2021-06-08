@@ -1,0 +1,32 @@
+body {
+    background: rgb(57, 226, 254);
+    background: linear-gradient(0deg, rgba(57, 226, 254, 1) 0%, rgba(8, 3, 135, 1) 100%);
+    padding-right: 35px;
+    padding-left: 35px;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    font-family: "Courier New", monospace;
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    margin: 0;
+}
+
+.bialyTekst {
+    color: #b6d4fe;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+h4 {
+    padding-right: 50px;
+}
+
